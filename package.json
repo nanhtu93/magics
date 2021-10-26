@@ -1,0 +1,15 @@
+{
+  "name": "magics_bot",
+  "version": "1.0.0",
+  "description": "magics bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["Bot", "Magics", "Telegram"],
+  "author": "MGFX",
+  "license": "ISC",
+  "dependencies": {
+    "telebot": "^1.4.1"
+  }
+}
